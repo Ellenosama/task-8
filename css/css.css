@@ -1,0 +1,32 @@
+.text{
+    font-size: 80px;
+    font-weight: 800;
+    font-family: Impact;
+}
+
+.p{
+    font-size: 35px;
+    font-family: "Triodion", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.button{
+    background-color: blue;
+    color: white;
+   
+}
+
+#demo{
+    font-size: 35px;
+    font-family: "Triodion", serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+#demos{
+    font-size: 35px;
+    font-family: "Triodion", serif;
+    font-weight: 400;
+    font-style: normal;
+}
